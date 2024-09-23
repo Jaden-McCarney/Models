@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-df = pd.read_csv('drive/MyDrive/scores.csv')
+df = pd.read_csv('Models/scores.csv')
 
 
 
